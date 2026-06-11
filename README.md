@@ -10,7 +10,7 @@
 
 - 💻 Developer / Gamer / Tech Enthusiast
 - 🔭 Currently working on...
-- 📫 How to reach me: [Telegram](https://t.me/) | [Email](mailto:andreykorolev541@gmail.com)
+- 📫 How to reach me: [Telegram](https://t.me/) | Discord: rageru01
 
 ---
 
