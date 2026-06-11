@@ -9,6 +9,7 @@
 ### 🚀 About Me
 
 - 💻 Developer / Gamer / Tech Enthusiast
+- 🔮 Vibe Coder
 - 🔭 Currently working on...
 - 📫 Discord: rageru01
 
