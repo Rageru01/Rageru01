@@ -10,7 +10,7 @@
 
 - 💻 Developer / Gamer / Tech Enthusiast
 - 🔭 Currently working on...
-- 📫 How to reach me: [Telegram](https://t.me/) | Discord: rageru01
+- 📫 Discord: rageru01
 
 ---
 
@@ -41,8 +41,6 @@
 ---
 
 <div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Rageru01&color=blueviolet&style=flat-square)
 
 *"Code is like humor. When you have to explain it, it's bad."*
 
